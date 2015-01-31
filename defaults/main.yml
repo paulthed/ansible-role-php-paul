@@ -29,3 +29,7 @@ php_short_open_tag: false
 
 php_error_reporting: "E_ALL & ~E_DEPRECATED & ~E_STRICT"
 php_display_errors: "Off"
+
+# I'm adding this one
+post_max_size: "70M"
+

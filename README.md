@@ -3,6 +3,8 @@
 ## My changes
  Want to change the default post_max_size = 64M
 
+---
+
 [![Build Status](https://travis-ci.org/geerlingguy/ansible-role-php.svg?branch=master)](https://travis-ci.org/geerlingguy/ansible-role-php)
 
 Installs PHP on RedHat/CentOS and Debian/Ubuntu servers.
